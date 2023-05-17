@@ -1,0 +1,64 @@
+html {
+    background-color: #F0F8FF;
+}
+
+#first_letter_of_logo {
+    font-size: 150%;
+}
+
+#logo {
+    font-family: Helvetica;
+    font-weight: bold;
+    font-style: italic;
+    padding: 10px;
+    background: #abd3f5;
+    border-radius: 15px;
+    text-align: center;
+}
+
+h1 {
+    font-family: helvetica;
+}
+
+#content {
+    text-align: center;
+    padding-top: 8%;
+    font-family: helvetica;
+}
+
+#sentence {
+    font-family: helvetica;
+}
+
+#subject {
+    font-size: 350%;
+    font-weight: bold;
+    padding: 50px;
+}
+
+#is_like {
+    font-style: italic;
+    font-size: 150%;
+    
+}
+
+#object {
+    font-size: 350%;
+    font-weight: bold;
+    padding: 50px;
+}
+
+button {
+    font-size: 24px;
+    font-family: helvetica;
+    background-color: green;
+    border: none;
+    color: white;
+/*    text-align: center;*/
+    padding: 15px;
+    border-radius: 5px;
+    bottom: 10px;
+    position: absolute;
+    left: 40%;
+    right:40%;
+}
