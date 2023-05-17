@@ -108,7 +108,6 @@ let objects = [
     "deoderant",
     "the sunset",
     "the Titanic",
-    "the world of 1984",
     "cheddar",
     "the quadratic formula",
     "McDonald's",
